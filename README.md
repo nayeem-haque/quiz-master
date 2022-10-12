@@ -1,6 +1,6 @@
-Quiz Master 
+# Quiz Master 
 
-# Write 3 bullet point about this project
+# Three bullet point about this project
 1. Quiz Master
 2. It helps in identifying the students with what they know and what they don't.
 3. It increases the level of practice.
